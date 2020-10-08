@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Automated JMeter Tester JAVA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Automated_JMeter_Tester_JAVA_jar</output-path>
+    <root id="archive" name="Automated JMeter Tester JAVA.jar">
+      <element id="module-output" name="Automated JMeter Tester JAVA" />
+    </root>
+  </artifact>
+</component>
